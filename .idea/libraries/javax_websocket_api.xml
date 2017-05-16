@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javax.websocket-api">
+    <CLASSES>
+      <root url="jar://C:/JavaServers/glassfish4/glassfish/modules/javax.websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
